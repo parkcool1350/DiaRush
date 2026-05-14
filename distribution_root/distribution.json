@@ -264,6 +264,39 @@
             "url": "https://parkcool1350.github.io/DiaRush/distribution_root/servers/DiaRush-1.20.1/fabricmods/required/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
             "MD5": "f174c66bbe7494ecb08f1887e923d398"
           }
+        },
+        {
+          "id": "config.json5",
+          "name": "config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 7436,
+            "url": "https://parkcool1350.github.io/DiaRush/distribution_root/servers/DiaRush-1.20.1/files/config/ok_zoomer/config.json5",
+            "MD5": "869e3f2c57fb9754f9c6ddb1b795a3b8",
+            "path": "config/ok_zoomer/config.json5"
+          }
+        },
+        {
+          "id": "xaerohud.txt",
+          "name": "xaerohud.txt",
+          "type": "File",
+          "artifact": {
+            "size": 123,
+            "url": "https://parkcool1350.github.io/DiaRush/distribution_root/servers/DiaRush-1.20.1/files/config/xaerohud.txt",
+            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
+            "path": "config/xaerohud.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5681,
+            "url": "https://parkcool1350.github.io/DiaRush/distribution_root/servers/DiaRush-1.20.1/files/options.txt",
+            "MD5": "1176a0000c86325978002637ebd1d87d",
+            "path": "options.txt"
+          }
         }
       ]
     }
