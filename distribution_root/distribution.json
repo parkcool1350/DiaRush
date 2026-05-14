@@ -297,6 +297,17 @@
             "MD5": "1176a0000c86325978002637ebd1d87d",
             "path": "options.txt"
           }
+        },
+        {
+          "id": "ClearStar.zip",
+          "name": "ClearStar.zip",
+          "type": "File",
+          "artifact": {
+            "size": 359638,
+            "url": "https://parkcool1350.github.io/DiaRush/distribution_root/servers/DiaRush-1.20.1/files/shaderpacks/ClearStar.zip",
+            "MD5": "df370a1511eaa967727a0669a2b1ebf8",
+            "path": "shaderpacks/ClearStar.zip"
+          }
         }
       ]
     }
